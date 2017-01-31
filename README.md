@@ -5,5 +5,3 @@ Research project developed on Computer Science course at UNESP - Universidade Es
 # Intro  
 
 The main idea of this project is to evaluate an load Balancer build with an Artificial Neural Network as distribution algorithm.
-
-### this is a work in progress 

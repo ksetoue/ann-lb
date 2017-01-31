@@ -135,3 +135,12 @@ jspm_packages
 
 # Output of 'npm pack'
 *.tgz
+
+#weights.json file
+*weights.json
+
+#log
+log.txt
+Log.txt
+*log.txt
+*Log.txt

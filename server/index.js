@@ -1,6 +1,7 @@
+'use strict'
 const http = require('http');
 
 const server = http.createServer((req, res) => {
-  res.end("port 18000");  //return IP from server
+  res.end('Hello, World!');  //return IP from server
 });
-server.listen(18000);
+server.listen(process.argv[2]);

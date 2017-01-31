@@ -1,0 +1,24 @@
+{
+  "name": "ann-load-balance",
+  "version": "1.0.0",
+  "description": "Research project developed on Computer Science course at UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksetoue/ann-load-balance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksetoue/ann-load-balance/issues"
+  },
+  "homepage": "https://github.com/ksetoue/ann-load-balance#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "request": "^2.79.0"
+  }
+}
